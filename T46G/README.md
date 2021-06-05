@@ -1,4 +1,4 @@
-#Yealink T46G
+# Yealink T46G
 
 Here you can find the languagefiles for the Yealink T46G.  
 Although this phone is EOL, it is still used a lot. The following language numbering is used:
