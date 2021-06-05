@@ -1,5 +1,7 @@
 # Yealink W60B
 
+PLEASE MIND: for the DECT phones of Yealink it is NOT possible to have a custom LCD language on the handsets. It is possible to have a custom language for the web GUI though.
+
 Here you can find the languagefiles for the Yealink W60B.  
 The following language numbering is used:
 
