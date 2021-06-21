@@ -19,4 +19,5 @@ Although this phone is EOL, it is still used a lot. The following language numbe
 013. Russian
 017. Dutch
 
+
 Languages officially maintained by Yealink cannot be found on this page. You can find these languagefiles at: https://support.yealink.com/documentFront/forwardToDocumentDetailPage?documentId=10
