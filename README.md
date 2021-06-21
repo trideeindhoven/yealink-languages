@@ -7,10 +7,10 @@ There are a few reasons for starting this repository:
 3. Maybe your language is supported, but you would like to improve the translation.
 
 We keep track of the progress of the translations. Because we use automated software for the translations new translations can (and will) be made available quickly. Here you can find the progress of the translationfiles:  
-<img src="https://progress-bar.dev/81?title=Dutch%20T41S" />  
-<img src="https://progress-bar.dev/85?title=Dutch%20T46G" />  
-<img src="https://progress-bar.dev/81?title=Dutch%20T48S" />  
-<img src="https://progress-bar.dev/83?title=Dutch%20CP860" />  
+<img src="https://progress-bar.dev/87?title=Dutch%20T41S" />  
+<img src="https://progress-bar.dev/91?title=Dutch%20T46G" />  
+<img src="https://progress-bar.dev/87?title=Dutch%20T48S" />  
+<img src="https://progress-bar.dev/89?title=Dutch%20CP860" />  
 
 This repository contains languagefiles ordened per phonetype. If you want to provision your phone with a new language, use the following two entries in your provisioning document:
 
