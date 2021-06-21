@@ -1,5 +1,7 @@
 # Yealink T41S
 
+<img src="t41s.png" />
+
 Here you can find the languagefiles for the Yealink T41S.  
 The following language numbering is used:
 
