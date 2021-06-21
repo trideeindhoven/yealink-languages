@@ -6,9 +6,9 @@ There are a few reasons for starting this repository:
 2. Maybe your local language is embargoed (yes! e.g. the Dutch language is embargoed by the company Lydis)
 3. Maybe your language is supported, but you would like to improve the translation.
 
-https://progress-bar.dev/81?title=T41S  
-https://progress-bar.dev/85?title=T46G  
-https://progress-bar.dev/81?title=T48S  
+<img src="https://progress-bar.dev/81?title=T41S" />  
+<img src="https://progress-bar.dev/85?title=T46G" />  
+<img src="https://progress-bar.dev/81?title=T48S" />  
 
 This repository contains languagefiles ordened per phonetype. If you want to provision your phone with a new language, use the following two entries in your provisioning document:
 
