@@ -1,5 +1,7 @@
 # Yealink T48G
 
+<img src="t48s.png" />
+
 Here you can find the languagefiles for the Yealink T48G.  
 The following language numbering is used:
 
