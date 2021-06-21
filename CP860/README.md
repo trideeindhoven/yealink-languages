@@ -1,5 +1,7 @@
 # Yealink CP860
 
+<img src="cp860.jpg" />
+
 Here you can find the languagefiles for the Yealink CP860.  
 The following language numbering is used:
 
