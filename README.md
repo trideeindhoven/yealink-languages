@@ -8,6 +8,7 @@ There are a few reasons for starting this repository:
 
 We keep track of the progress of the translations. Because we use automated software for the translations new translations can (and will) be made available quickly. Here you can find the progress of the translationfiles:  
 <img src="https://progress-bar.dev/87?title=Dutch%20T41S&width=120" />  
+<img src="https://progress-bar.dev/87?title=Dutch%20T46S&width=120" />  
 <img src="https://progress-bar.dev/91?title=Dutch%20T46G&width=120" />  
 <img src="https://progress-bar.dev/87?title=Dutch%20T48S&width=120" />  
 <img src="https://progress-bar.dev/89?title=Dutch%20CP860&width=120" />  
@@ -16,7 +17,7 @@ This repository contains languagefiles ordened per phonetype. If you want to pro
 
 ```
 gui_lang.url = Dutch
-gui_lang.url = https://raw.githubusercontent.com/trideeindhoven/yealink-languages/main/T46G/014.GUI.Dutch.lang
+gui_lang.url = https://raw.githubusercontent.com/trideeindhoven/yealink-languages/main/T46S/017.GUI.Dutch.lang
 ```
 
 It is an ambition to create a "language-provision-and-redirect" service somewhere in Q3 2021. That means you just redirect your phone to:
