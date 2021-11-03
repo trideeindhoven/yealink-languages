@@ -16,7 +16,7 @@ We keep track of the progress of the translations. Because we use automated soft
 This repository contains languagefiles ordened per phonetype. If you want to provision your phone with a new language, use the following two entries in your provisioning document:
 
 ```
-gui_lang.url = Dutch
+lang.gui = Dutch
 gui_lang.url = https://raw.githubusercontent.com/trideeindhoven/yealink-languages/main/T46S/017.GUI.Dutch.lang
 ```
 
